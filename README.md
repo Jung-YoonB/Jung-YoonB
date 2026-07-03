@@ -1,10 +1,10 @@
 <!-- Header -->
-![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=JungyoonBae&fontAlign=30&fontSize=30&textBg=true&desc=Problem%20Solving%20Developer&descAlign=60&descAlignY=50)
+![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Jung Yoon&fontAlign=30&fontSize=30&textBg=true&desc=Problem%20Solving%20Developer&descAlign=60&descAlignY=50)
 
 ---
 
 ## 👋 About Me
-- 🎯 **문제를 해결하는** 개발자, **팀원들과 소통하는** 개발자, **포기를 모르는** 개발자입니다.
+- 🎯 **:D** :), **XD** X), **;D** ;).
 
 ---
 
@@ -28,10 +28,10 @@
 <div align="center">
 
   <!-- 깃허브 활동 통계 카드 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Jung-YoonB&show_icons=true&theme=radical&hide_border=true" height="180px"/>
+  [![GitHub stats](https://github-stats-extended.vercel.app/api?username=Jung-YoonB)]()
 
   <!-- 가장 많이 사용한 언어 카드 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jung-YoonB&layout=compact&theme=radical&hide_border=true" height="180px"/>
+  [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Jung-YoonB&langs_count=4)]()
 
 </div>
 
